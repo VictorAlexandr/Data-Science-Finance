@@ -13,7 +13,7 @@
 
 Sou um profissional de dados, construindo uma carreira focada em resolver problemas de negócio complexos através de **soluções data-driven**. Minha paixão é extrair insights valiosos de dados e traduzi-los em estratégias que geram impacto real, especialmente em áreas como **risco de crédito, detecção de fraudes, e personalização da experiência do cliente**.
 
-Estou buscando ativamente uma oportunidade para aplicar minhas habilidades em um ambiente inovador e de alta performance como o Itaú, contribuindo para a equipe de dados e aprendendo com os melhores do mercado.
+Estou buscando ativamente uma oportunidade para aplicar minhas habilidades em um ambiente inovador e de alta performance, contribuindo para a equipe de dados e aprendendo com os melhores do mercado.
 
 ---
 
@@ -37,9 +37,11 @@ Estou buscando ativamente uma oportunidade para aplicar minhas habilidades em um
 
 ### 🚀 Projetos de Portfólio
 
-Abaixo estão 5 projetos desenvolvidos para atacar desafios reais do setor financeiro. Cada um possui seu próprio repositório com uma análise completa, desde a definição do problema de negócio até a avaliação do impacto da solução.
+Meu portfólio é dividido em duas frentes principais: soluções de negócio voltadas para o cliente e o mercado, e soluções de AIOps focadas na otimização da infraestrutura de tecnologia, uma área de grande interesse para mim.
 
 ---
+
+#### 📊 Projetos Focados em Negócio e Cliente
 
 <!-- PROJETO 1: FRAUDE -->
 <details>
@@ -103,5 +105,48 @@ Abaixo estão 5 projetos desenvolvidos para atacar desafios reais do setor finan
     <li><strong>Diferencial:</strong> Aplicação de Data Science a um problema de logística e estratégia de negócio físico, mostrando versatilidade na resolução de problemas.</li>
   </ul>
   <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 5]"><strong>Ver Repositório Completo ➡️</strong></a>
+  <br><br>
+</details>
+
+---
+
+#### 🔧 Projetos Focados em AIOps e Infraestrutura de Data Center
+
+<!-- PROJETO 6: MANUTENÇÃO PREDITIVA -->
+<details>
+  <summary><strong>6. ⚙️ Manutenção Preditiva de Servidores em Data Center</strong></summary>
+  <br>
+  <p>Desenvolvimento de um modelo de classificação para prever falhas de hardware (discos rígidos, memória) antes que ocorram. Analisando dados de sensores (S.M.A.R.T.), o sistema identifica padrões que antecedem falhas, permitindo uma manutenção proativa que <strong>reduz downtime, previne perda de dados e otimiza custos</strong> operacionais.</p>
+  <ul>
+    <li><strong>Tecnologias:</strong> Python, Pandas, Scikit-learn (Random Forest), XGBoost, dados de séries temporais.</li>
+    <li><strong>Diferencial:</strong> Solução direta para um dos maiores desafios de custo e confiabilidade em operações de TI, aplicando ML em dados de máquina.</li>
+  </ul>
+  <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 6]"><strong>Ver Repositório Completo ➡️</strong></a>
+  <br><br>
+</details>
+
+<!-- PROJETO 7: EFICIÊNCIA ENERGÉTICA -->
+<details>
+  <summary><strong>7. ⚡ Otimização de Consumo de Energia (PUE) via Análise de Carga</strong></summary>
+  <br>
+  <p>Análise do consumo de energia de um data center para otimizar a <strong>Eficiência do Uso de Energia (PUE)</strong>, uma métrica chave de sustentabilidade e custo. O projeto modela a relação entre carga de trabalho dos servidores, temperatura e consumo, e propõe um sistema de agendamento inteligente para executar tarefas pesadas em horários de menor custo energético.</p>
+  <ul>
+    <li><strong>Tecnologias:</strong> Python, Pandas, Scikit-learn (Regressão), Matplotlib.</li>
+    <li><strong>Diferencial:</strong> Conecta Data Science com a agenda <strong>ESG</strong> e a redução de custos operacionais, mostrando um forte alinhamento com as metas corporativas modernas.</li>
+  </ul>
+  <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 7]"><strong>Ver Repositório Completo ➡️</strong></a>
+  <br><br>
+</details>
+
+<!-- PROJETO 8: ANÁLISE DE LOGS -->
+<details>
+  <summary><strong>8. 📜 Detecção de Anomalias em Logs com NLP e Unsupervised Learning</strong></summary>
+  <br>
+  <p>Criação de um pipeline que processa milhões de linhas de logs de sistema usando <strong>NLP para parsing e vetorização</strong>. Em seguida, aplica algoritmos de machine learning não-supervisionado (Isolation Forest, DBSCAN) para identificar padrões anômalos que possam indicar falhas operacionais ou ameaças de segurança em tempo real.</p>
+  <ul>
+    <li><strong>Tecnologias:</strong> Python, Regex, Pandas, Scikit-learn (Isolation Forest), NLP.</li>
+    <li><strong>Diferencial:</strong> Combina NLP e aprendizado não-supervisionado para resolver um problema de segurança e operações em escala massiva de dados.</li>
+  </ul>
+  <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 8]"><strong>Ver Repositório Completo ➡️</strong></a>
   <br><br>
 </details>
